@@ -14,7 +14,7 @@ In order to minimize drifting, I decided to utilize a very slow speed of 0.1
 
 ### Code Structure
 
-There is a class `SquareNode` that is constructed with a given `node` name, `publishder` name, `speed` integer, `edge_len` integer. 
+There is a class `SquareNode` that is constructed with a given `node` name, `publisder` name, `speed` integer, `edge_len` integer. 
 
 There are 2 methods in this class:
 
